@@ -8,7 +8,7 @@
 
 #### 二、演示例图
 
-![image-20230226200807173](D:\桌面\数字图像处理小工具\DigitalImageProcess\img\演示例图1.png)
+![image-20230226200807173](https://github.com/PadenHuang/DigitalImageProcess/blob/master/img/%E6%BC%94%E7%A4%BA%E4%BE%8B%E5%9B%BE1.png)
 
 #### 三、编写技术
 
